@@ -16,7 +16,15 @@ This Python script collects multiple items from the user into a list and **print
 
 ## 🧪 Example
 
-🔢 How many elements do you want to enter? 3 Enter element 0 (or press Enter to stop): apple Enter element 1 (or press Enter to stop): banana Enter element 2 (or press Enter to stop): cherry ✅ Your first element is: apple
+🔢 How many elements do you want to enter? 3
+
+Enter element 0 (or press Enter to stop): apple
+
+Enter element 1 (or press Enter to stop): banana
+
+Enter element 2 (or press Enter to stop): cherry
+
+✅ Your first element is: apple
 
 
 ---
