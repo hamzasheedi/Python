@@ -1,1 +1,30 @@
-06_get_last_element
+def get_last_element():
+    my_list: list[str] = []
+
+    try:
+        n = int(input("🔢 How many elements do you want to enter? "))
+
+        if n <= 0:
+            print("⚠️ Please enter a number greater than 0.")
+            return
+
+        for i in range(n):
+            element = input(f"Enter element {i + 1} (or press Enter to stop early): ")
+            if element == "":
+                if my_list:
+                    print(f"✅ Your last entered element is: {my_list[-1]}")
+                else:
+                    print("⚠️ No elements were added.")
+                return
+            my_list.append(element)
+
+        print(f"✅ Your last entered element is: {my_list[-1]}")
+
+    except ValueError:
+        print("❌ Invalid input. Please enter a valid number.")
+
+def main():
+    get_last_element()
+
+if __name__ == '__main__':
+    main()
