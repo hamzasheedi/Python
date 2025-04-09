@@ -23,7 +23,11 @@ This simple Python script demonstrates how to **append a string to a list multip
 
 ## ▶️ Example Output
 
-📝 Message: Hello World 📂 List Before: [] 📂 List After: ['Hello World', 'Hello World', 'Hello World']
+📝 Message: Hello World 📂
+
+List Before: [] 📂 
+
+List After: ['Hello World', 'Hello World', 'Hello World']
 
 
 ---
