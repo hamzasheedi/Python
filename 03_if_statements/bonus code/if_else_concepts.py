@@ -11,6 +11,12 @@ def check_even_or_odd(number):
         print("🟦 It's an even number.")
     else:
         print("🟥 It's an odd number.")
+        
+def check_even_or_odd(number):
+    if number % 2 == 0:
+        print("🟦 It's an even number.")
+    else:
+        print("🟥 It's an odd number.")
 
 
 if __name__ == '__main__':
