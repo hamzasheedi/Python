@@ -37,7 +37,22 @@ def loop_control_demo():
     else:
         print("Loop completed without break!")
 
-    
+    print("\n🔁 NESTED LOOP: Print coordinates")
+    for i in range(3):
+        for j in range(2):
+            print(f"Coordinate: ({i}, {j})")
+
+    print("\n🔁 LOOPING THROUGH STRING")
+    for char in "loop":
+        print(char)
+
+    print("\n🔁 WHILE LOOP WITH ELSE")
+    count = 0
+    while count < 3:
+        print(f"Count: {count}")
+        count += 1
+    else:
+        print("While loop finished naturally")
 
 def main():
     loop_control_demo()
