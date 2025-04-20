@@ -27,5 +27,12 @@ Double that is 14
 
 ```bash
 python double_number.py
+```
+
+## 🔁 Bonus Idea
+
+Add a loop to allow multiple inputs until the user types "exit"!
+
+
 
 
