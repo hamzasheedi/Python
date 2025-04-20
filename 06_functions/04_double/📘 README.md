@@ -10,3 +10,6 @@ This is a simple Python script that doubles the number entered by the user.
 
 ## ✅ Example
 
+Enter Your Number To Double: 7
+
+Double that is 14
