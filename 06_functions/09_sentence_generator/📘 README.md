@@ -2,6 +2,8 @@
 
 This program takes a **word** and the type of **part of speech** (noun, verb, or adjective) and creates a fun sentence using your input!
 
+---
+
 ## 🚀 How It Works
 
 - First, you are asked to **type a word** (noun, verb, or adjective).
@@ -10,6 +12,8 @@ This program takes a **word** and the type of **part of speech** (noun, verb, or
   - Type `1` for verb
   - Type `2` for adjective
 - The program then creates a sentence using that word in a fun way!
+
+---
 
 ## ✅ Example Output
 
@@ -32,6 +36,7 @@ Type 0 for noun, 1 for verb, 2 for adjective: 2
 Looking out my window, the sky is big and blue!
 
 
+---
 
 ## ▶️ How to Run
 
@@ -41,6 +46,8 @@ Looking out my window, the sky is big and blue!
 ```bash
 python make_sentence.py
 ```
+---
+
 ## 💡 Key Concepts
 Conditionals: if-elif-else for choosing sentences based on user input.
 
