@@ -11,7 +11,21 @@ This Python program lets you type a message and choose how many times you want i
 
 ## ✅ Example Output
 
-Enter Your Message: Hello World How Many Times You Want To Repeat: 3 Hello World Hello World Hello World Enter Your Message: Python Rocks How Many Times You Want To Repeat: 2 Python Rocks Python Rocks Enter Your Message: (Program exits)
+Enter Your Message: Hello World 
+
+How Many Times You Want To Repeat: 3 
+
+Hello World
+Hello World 
+Hello World 
+
+Enter Your Message: Python Rocks 
+
+How Many Times You Want To Repeat: 2 
+
+Python Rocks Python Rocks
+
+Enter Your Message: (Program exits)
 
 
 ## ▶️ How to Run
