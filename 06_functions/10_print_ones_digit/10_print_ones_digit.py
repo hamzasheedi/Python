@@ -1,0 +1,1 @@
+10_print_ones_digit
