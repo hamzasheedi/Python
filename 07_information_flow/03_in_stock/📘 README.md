@@ -26,3 +26,9 @@ Loops
 Function return values
 
 Input handling and .strip().lower()
+
+
+## ▶️ How to Run
+Save the file as fruit_inventory.py and run:
+
+python fruit_inventory.py
