@@ -35,9 +35,24 @@ python countdown_timer.py
 ## Example
 
 Enter seconds to start countdown: 10
+
 00:10
+
 00:09
+
 ...
+
 00:00
+
 ⏰ Time's Up!
+
+## 📦 Requirements
+
+Python 3.x
+
+No external libraries needed.
+
+## 🔒 License
+
+This project is open-source and free to use for learning and educational purposes.
 
