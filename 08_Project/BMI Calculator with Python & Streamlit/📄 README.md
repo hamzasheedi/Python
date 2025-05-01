@@ -32,3 +32,15 @@ This is a simple and interactive **BMI (Body Mass Index) Calculator** built usin
 ```
 pip install streamlit
 ```
+
+### Step 2: Run the Application
+
+streamlit run bmi_calculator.py
+
+### Step 3: Use the App
+
+Input your weight in kilograms
+
+Input your height in meters
+
+Click "Calculate" to see your BMI and weight classification
