@@ -28,3 +28,9 @@ This is a simple Python program that takes an integer input from the user and su
 Enter your number: 10
 Result after subtracting 7: 3
 ```
+
+If the user enters something invalid:
+
+Enter your number: hello
+
+❌ Please enter a valid integer.
