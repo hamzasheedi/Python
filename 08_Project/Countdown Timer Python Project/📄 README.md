@@ -32,3 +32,12 @@ A simple terminal-based countdown timer written in Python. It allows users to en
 python countdown_timer.py
 ```
 
+## Example
+
+Enter seconds to start countdown: 10
+00:10
+00:09
+...
+00:00
+⏰ Time's Up!
+
