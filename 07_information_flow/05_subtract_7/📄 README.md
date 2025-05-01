@@ -34,3 +34,13 @@ If the user enters something invalid:
 Enter your number: hello
 
 ❌ Please enter a valid integer.
+
+
+## ✅ Requirements
+
+Python 3.x
+
+To run the program:
+
+
+python subtract_7.py
