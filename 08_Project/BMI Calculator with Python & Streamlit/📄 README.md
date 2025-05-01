@@ -44,3 +44,23 @@ Input your weight in kilograms
 Input your height in meters
 
 Click "Calculate" to see your BMI and weight classification
+
+## ✅ Requirements
+Python 3.x
+
+Streamlit
+
+## 📬 Contributions
+Feel free to improve this project by adding:
+
+Support for imperial units (lbs, inches)
+
+History tracking
+
+Health tips based on BMI
+
+## 📸 Sample Output
+
+Your BMI is 22.49
+
+You Have Normal Weight
