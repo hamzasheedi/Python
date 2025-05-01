@@ -24,3 +24,12 @@ First Name: Hamza
 Last Name: Sheedi 
 
 Email: hamza@example.com
+
+
+## 🚀 To Run
+
+Save as `user_data_collector.py` and run:
+
+```bash
+python user_data_collector.py
+
