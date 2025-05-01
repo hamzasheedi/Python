@@ -11,3 +11,16 @@ A basic Python script that prompts the user for their first name, last name, and
 
 ## 🧪 Sample Output
 
+What is your first name? Hamza 
+
+What is your last name? Sheedi 
+
+What is your email? hamza@example.com
+
+📋 Collected User Information: 
+
+First Name: Hamza 
+
+Last Name: Sheedi 
+
+Email: hamza@example.com
