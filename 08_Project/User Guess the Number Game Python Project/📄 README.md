@@ -38,3 +38,18 @@ No external libraries are required.
 python number_guessing_game.py
 ```
 
+## 📋 Example Output
+
+Guess a number between 1 and 10: 5
+
+📉 Your guess is too low.
+
+Guess a number between 1 and 10: 9
+
+📈 Your guess is too high.
+
+Guess a number between 1 and 10: 7
+
+🎉 Congrats! You guessed the number: 7
+
+
