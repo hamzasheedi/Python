@@ -53,3 +53,14 @@ Guess a number between 1 and 10: 7
 🎉 Congrats! You guessed the number: 7
 
 
+## ✍️ Customize Difficulty
+You can increase the difficulty by changing the guess(10) call at the end of the script. Example:
+
+```
+guess(50)  # Number will be between 1 and 50
+```
+
+## 📜 License
+This project is free to use for educational and personal purposes.
+
+
