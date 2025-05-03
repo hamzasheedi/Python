@@ -45,3 +45,20 @@ Guess a number between 1 and 10: 8
 Guess a number between 1 and 10: 7
 
 🎉 Congrats! You guessed the number: 7
+
+
+## 📦 Requirements
+Python 3.x
+
+No additional libraries required
+
+## 📌 Tip
+
+You can change the difficulty by modifying the upper limit passed to guess(). For example:
+
+```
+guess(100)  # Makes it more challenging!
+```
+
+## 🔒 License
+Free to use for personal and educational purposes.
