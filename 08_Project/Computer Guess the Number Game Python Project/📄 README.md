@@ -30,3 +30,18 @@ A simple terminal-based number guessing game where the player tries to guess a r
 
 ```bash
 python number_guessing_game.py
+```
+
+## Example Output
+
+Guess a number between 1 and 10: 5
+
+📉 Your guess is too low.
+
+Guess a number between 1 and 10: 8
+
+📈 Your guess is too high.
+
+Guess a number between 1 and 10: 7
+
+🎉 Congrats! You guessed the number: 7
